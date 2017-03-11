@@ -1,0 +1,27 @@
+{
+  "name": "rl-fcc-image-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ralph7C2/rl-fcc-image-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ralph7C2/rl-fcc-image-search/issues"
+  },
+  "homepage": "https://github.com/Ralph7C2/rl-fcc-image-search#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongoose": "^4.8.6",
+    "morgan": "^1.8.1",
+    "request": "^2.81.0"
+  }
+}
